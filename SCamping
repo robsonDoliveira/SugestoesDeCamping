@@ -6,5 +6,46 @@
     "DescricaoCamping_M": "Rua da Estação n° 100 / b Conselheiro Mata, Minas Gerais, Brazil",
     "ImagemCamping_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/50335275_1186151161559014_3048899697478467584_n.jpg?_nc_cat=107&_nc_ht=scontent.fplu17-1.fna&oh=1ea426b772a9f49c6288625c0f0fe0cc&oe=5D1805BC",
     "LinkCamping_M": "https://www.facebook.com/cristalcamping/"
+  },
+  {
+    "idSugestoesDeCamping_M": 2,
+    "NomeCamping_M": "Rodrigo Ferraz Aracoara",
+    "ContatoCamping_M": "Rodrigo Ferraz Aracoara",
+    "DescricaoCamping_M": " Alto Paraíso de Goiás - Chapada dos Veadeiros",
+    "ImagemCamping_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/19511492_1363776983730192_7857272107967444210_n.jpg?_nc_cat=103&_nc_ht=scontent.fplu17-1.fna&oh=1785166aa16c88e3147ba901b1a7fe06&oe=5D4FA8FB",
+    "LinkCamping_M": "https://www.facebook.com/aracoara.turismoreceptivo/"
+  },
+   {
+    "idSugestoesDeCamping_M": 3,
+    "NomeCamping_M": "Tia Claudia Ecoturismo",
+    "ContatoCamping_M": "(31) 98513-2847",
+    "DescricaoCamping_M": "Aluguel de casa para temporada",
+    "ImagemCamping_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/11060323_796535267103421_5518367392010947349_n.jpg?_nc_cat=106&_nc_ht=scontent.fplu17-1.fna&oh=963a7a2e8709b5a0fb6739a0cb599d91&oe=5D36C926",
+    "LinkCamping_M": "https://www.facebook.com/Tia-Claudia-Ecoturismo-548445908579026/"
+  },
+    {
+    "idSugestoesDeCamping_M": 4,
+    "NomeCamping_M": "Camping Rio de Pedras",
+    "ContatoCamping_M": "(31) 99302-9248",
+    "DescricaoCamping_M": "Camping localizado a 24km do centro de Santana do Riacho, conta com banheiros com agua quente, Estacionamento, Trilhas ecológicas, Área para Churrasco,",
+    "ImagemCamping_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/49661502_1287171051422322_1195116122316210176_n.jpg?_nc_cat=107&_nc_ht=scontent.fplu17-1.fna&oh=e9f4016edbfb3e03c79c7a38ac017c1c&oe=5D421683",
+    "LinkCamping_M": "https://www.facebook.com/Camping-Rio-de-Pedras-1149583591847736/"
+  },
+    {
+    "idSugestoesDeCamping_M": 5,
+    "NomeCamping_M": "Camping Bromélias",
+    "ContatoCamping_M": "(31) 98797-7851",
+    "DescricaoCamping_M": "Fundação em 1996",
+    "ImagemCamping_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/12188911_1076085375734953_6679515844743974486_n.jpg?_nc_cat=103&_nc_ht=scontent.fplu17-1.fna&oh=26f3b3fc43eb848214fc41b20e243410&oe=5D4ACCB2",
+    "LinkCamping_M": "https://www.facebook.com/BromeliasLapinha/"
+  },
+    {
+    "idSugestoesDeCamping_M": 6,
+    "NomeCamping_M": "Camping Raio de Sol",
+    "ContatoCamping_M": "Camping Raio de Sol",
+    "DescricaoCamping_M": "Angra dos Reis",
+    "ImagemCamping_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/580725_104496273076792_1134737379_n.jpg?_nc_cat=109&_nc_ht=scontent.fplu17-1.fna&oh=5db2214e3d34607603f766dc68d5b618&oe=5D36A505",
+    "LinkCamping_M": "https://www.facebook.com/profile.php?id=100005492583245/"
   }
+  
 ]
